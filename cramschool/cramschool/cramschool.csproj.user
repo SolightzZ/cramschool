@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="crouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="instructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="searchcrouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="searchregister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="searchstudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="searchstudygroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="studygroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
